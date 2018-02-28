@@ -1,0 +1,10 @@
+{
+  "name": "Nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Amirmahdi Berenjian",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
